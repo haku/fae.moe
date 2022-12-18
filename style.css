@@ -36,7 +36,7 @@ a:active, a:hover {
   text-decoration: underline;
 }
 #card {
-  padding: 1em 2em;
+  padding: 1em;
   display: inline-block;
   margin: 15% auto; /* Make div centre. */
   border-radius: 10px;
